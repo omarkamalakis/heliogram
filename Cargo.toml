@@ -7,8 +7,8 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-tui = "*"
-json = "*"
-termion = "*"
+tui = "0.5"
+# json = "*"
+termion = "1.5"
 
 
